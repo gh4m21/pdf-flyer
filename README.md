@@ -1,6 +1,8 @@
 # pdf-flyer
 A flyer builder based on jsPDF
 
+Demo at <https://massimo-cassandro.github.io/pdf-flyer/>
+
 ## Changelog
 * v.1.1
   * Removed jQuery
